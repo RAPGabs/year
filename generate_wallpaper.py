@@ -12,7 +12,7 @@ except ValueError:
     BIRTHDAY = date(2000, 1, 1)
 
 LIFESPAN_YEARS = 90
-SCREEN_SIZE = (2622, 1206)
+SCREEN_SIZE = (1206, 2622)
 BG_COLOR = (0, 0, 0)         # Black
 DOT_COLOR_FILLED = (255, 255, 255) # White
 DOT_COLOR_EMPTY = (50, 50, 50)     # Dark Gray
